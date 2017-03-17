@@ -1,0 +1,1 @@
+var STATE_INITIAL = 0;
